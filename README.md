@@ -6,7 +6,7 @@ Atualmente desenvolvendo projetos pessoais para portfólio e aprimorando boas pr
 
 ---
 
-## 🧠 Tecnologias
+## ⚙️ Tech Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
