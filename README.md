@@ -10,7 +10,7 @@ Atualmente desenvolvendo projetos pessoais para portfólio e aprimorando boas pr
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=csharp,dotnet,postgres,docker,aws,git,github,vscode&theme=dark&perline=8" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,docker,aws,git,github,vscode&theme=dark&perline=8" />
   </a>
 </p>
 
