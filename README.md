@@ -27,3 +27,9 @@ Atualmente desenvolvendo projetos pessoais para portfólio e aprimorando boas pr
 ## 📫 Contato
 
 [LinkedIn](https://www.linkedin.com/in/seu-link-aqui)
+<p align="center">
+  <a href="https://linkedin.com/in/al-siam" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>&nbsp;
+</p>
+
