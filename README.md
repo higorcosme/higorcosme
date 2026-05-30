@@ -6,7 +6,7 @@ Atualmente desenvolvendo projetos pessoais para portfólio e aprimorando boas pr
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -16,7 +16,7 @@ Atualmente desenvolvendo projetos pessoais para portfólio e aprimorando boas pr
 
 ---
 
-## 📌 Foco atual
+## Foco atual
 
 🎯 Desenvolvimento backend com C# e .NET  
 📚 Construção de projetos para portfólio  
