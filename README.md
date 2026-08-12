@@ -43,25 +43,21 @@
 
 <hr/>
 
-<h2 align="center">🚀 Projetos em Destaque 🚀</h2>
+<h2 align="center">📂 Projetos</h2>
 
 <br/>
 
-<div align="center">
+<div>
 
-<h3>🛒 TechStore</h3>
-
-<p>
-  Sistema de gerenciamento de produtos, estoque e pedidos, desenvolvido como projeto prático de Back-End.
-</p>
+<h3>TechStore - E-commerce | <a href="https://github.com/higorcosme/TechStore" target="_blank">GitHub</a></h3>
 
 <p>
-  Tecnologias: JavaScript • Node.js • Express.js • PostgreSQL
+• <strong>API RESTful com Node.js + Express.js</strong> — backend estruturado para gerenciamento de produtos, clientes e pedidos.
+<br>
+• <strong>Funcionalidades:</strong> produtos • categorias • carrinho • clientes • pedidos
+<br>
+• <strong>Tecnologias:</strong> JavaScript • Node.js • Express.js • PostgreSQL • HTML5 • CSS3
 </p>
-
-<a href="https://github.com/higorcosme/TechStore" target="_blank">
-  🔗 Ver projeto no GitHub
-</a>
 
 </div>
 
