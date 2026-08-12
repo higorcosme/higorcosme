@@ -1,33 +1,70 @@
-# Olá, me chamo Higor!
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+Eu+sou+o+Higor!;" />
+</h1>
 
-Estudante de Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento backend utilizando C# e .NET.
+<h3 align="center">Graduando em Análise e Desenvolvimento de Sistemas no 6° período</h3>
 
-Atualmente desenvolvendo projetos pessoais para portfólio e aprimorando boas práticas de engenharia de software.
+<br/>
 
----
+<div align="center">
+ 
+🔭 Atualmente desenvolvendo **projetos pessoais para portfólio**
+ 
+🌱 Atualmente estudando **JavaScript, Node.js, Express.js e React.js**
 
-## Tech Stack
+💻 Foco em **desenvolvimento backend e APIs RESTful**
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,docker,aws,git,github,vscode&theme=dark&perline=8" />
+📚 Aprimorando conhecimentos em **arquitetura de software, bancos de dados e boas práticas de desenvolvimento**
+
+</div>
+
+<br/>
+ 
+<div align="center"> 
+  <a href="mailto:higorcm75@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
+  <a href="https://linkedin.com/in/higorcosme" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+</div>
+
+<hr/>
+ 
+<h2 align="center">⚒️ Tecnologias e ferramentas ⚒️</h2>
+
+<br/>
+
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=javascript,nodejs,express,react,postgresql,html,css,git,github" />
+</div>
+
+<br/>
+
+<hr/>
+
+<h2 align="center">🚀 Projetos em Destaque 🚀</h2>
+
+<br/>
+
+<div align="center">
+
+<h3>🛒 TechStore</h3>
+
+<p>
+  Sistema de gerenciamento de produtos, estoque e pedidos, desenvolvido como projeto prático de Back-End.
 </p>
 
----
-
-## Foco atual
-
-🎯 Desenvolvimento backend com C# e .NET  
-📚 Construção de projetos para portfólio  
-🧩 Aprimoramento de boas práticas e arquitetura de software  
-
----
-
-## Social
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/higorcosme/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>&nbsp;
+<p>
+  Tecnologias: JavaScript • Node.js • Express.js • PostgreSQL
 </p>
+
+<a href="https://github.com/higorcosme/TechStore" target="_blank">
+  🔗 Ver projeto no GitHub
+</a>
+
+</div>
+
+<br/>
+
+<hr/>
