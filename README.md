@@ -54,7 +54,7 @@
 <p>
 • <strong>API RESTful com Node.js + Express.js</strong> — backend estruturado para gerenciamento de produtos, clientes e pedidos.
 <br>
-• <strong>Funcionalidades:</strong> produtos • categorias • carrinho • clientes • pedidos
+• <strong>Funcionalidades:</strong> autenticação de usuários, gerenciamento de produtos e categorias, controle de estoque, carrinho de compras, pedidos e acompanhamento, pagamentos, endereços e devoluções.
 <br>
 • <strong>Tecnologias:</strong> JavaScript • Node.js • Express.js • PostgreSQL • HTML5 • CSS3
 </p>
