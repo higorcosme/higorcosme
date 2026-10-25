@@ -60,14 +60,14 @@
 <h3>🛒 Olist E-Commerce Analytics | <a href="https://github.com/higorcosme/olist-ecommerce-analytics" target="_blank">GitHub</a></h3>
 
 <p>
-- <strong>Pipeline de Dados Completo (ETL, SQL e Power BI)</strong> — Análise executiva de e-commerce baseada no conjunto de dados público da Olist (Kaggle).
+- <strong>Pipeline de Dados (ETL, SQL e Power BI)</strong> — Análise executiva de e-commerce baseada no conjunto de dados público da Olist (Kaggle).
 <br>
 - <strong>Pipeline & Tecnologias:</strong>
-  <br>• <strong>Python (Pandas, SQLAlchemy, Urllib):</strong> Ingestão, limpeza e tratamento dos dados brutos.
+  <br>• <strong>Python (Pandas, SQLAlchemy):</strong> Ingestão, limpeza e tratamento dos dados brutos.
   <br>• <strong>SQL Server:</strong> Modelagem dimensional e consultas analíticas para validação de KPIs (Faturamento, OTD, Lead Time).
   <br>• <strong>Power BI & DAX:</strong> Dashboards interativos focados em UX/Data Storytelling (Visão Geral de Vendas e Análise Operacional de Logística).
 <br>
-- <strong>Tecnologias:</strong> Python • SQL Server • Power BI • DAX • Pandas • SQLAlchemy • Urllib
+- <strong>Tecnologias:</strong> Python • SQL Server • Power BI • DAX • Pandas • SQLAlchemy
 </p>
 
 </div>
