@@ -8,13 +8,13 @@
 
 <div align="center">
  
-🔭 Atualmente desenvolvendo **projetos pessoais para portfólio**
+🔭 Atualmente desenvolvendo **projetos de Análise de Dados, BI e Data Science para portfólio**
  
-🌱 Atualmente estudando **JavaScript, Node.js, Express.js e React.js**
+🌱 Atualmente estudando **Scikit-Learn e Machine Learning**
 
-💻 Foco em **desenvolvimento backend e APIs RESTful**
+💻 Foco em **Data Analytics, Business Intelligence e Ciência de Dados**
 
-📚 Aprimorando conhecimentos em **arquitetura de software, bancos de dados e boas práticas de desenvolvimento**
+📚 Aprimorando conhecimentos em **ETL, Modelagem Dimensional, SQL Server e Visualização de Dados**
 
 </div>
 
@@ -25,7 +25,7 @@
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://linkedin.com/in/higorcosme" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
 
@@ -36,7 +36,13 @@
 <br/>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=javascript,nodejs,express,react,postgresql,html,css,git,github" />
+    <img src="https://skillicons.dev/icons?i=python,pandas,numpy,git,github" />
+</div>
+
+<br/>
+
+<div align="center">
+  <p><strong>Bibliotecas & Stack de Dados:</strong> Pandas • NumPy • Matplotlib • Seaborn • SQLAlchemy • Urllib • Scikit-Learn • SQL Server • Power BI</p>
 </div>
 
 <br/>
@@ -49,14 +55,17 @@
 
 <div>
 
-<h3>TechStore - E-commerce | <a href="https://github.com/higorcosme/TechStore" target="_blank">GitHub</a></h3>
+<h3>🛒 Olist E-Commerce Analytics — End-to-End Data Project | <a href="https://github.com/higorcosme/NOME-DO-SEU-REPO-OLIST" target="_blank">GitHub</a></h3>
 
 <p>
-• <strong>API RESTful com Node.js + Express.js</strong> — backend estruturado para gerenciamento de produtos, clientes e pedidos.
+- <strong>Pipeline de Dados Completo (ETL, SQL e Power BI)</strong> — Análise executiva de e-commerce baseada no conjunto de dados público da Olist (Kaggle).
 <br>
-• <strong>Funcionalidades:</strong> autenticação de usuários, gerenciamento de produtos e categorias, controle de estoque, carrinho de compras, pedidos e acompanhamento, pagamentos, endereços e devoluções.
+- <strong>Pipeline & Tecnologias:</strong>
+  <br>• <strong>Python (Pandas, SQLAlchemy, Urllib):</strong> Ingestão, limpeza e tratamento dos dados brutos.
+  <br>• <strong>SQL Server:</strong> Modelagem dimensional e consultas analíticas para validação de KPIs (Faturamento, OTD, Lead Time).
+  <br>• <strong>Power BI & DAX:</strong> Dashboards interativos focados em UX/Data Storytelling (Visão Geral de Vendas e Análise Operacional de Logística).
 <br>
-• <strong>Tecnologias:</strong> JavaScript • Node.js • Express.js • PostgreSQL • HTML5 • CSS3
+- <strong>Tecnologias:</strong> Python • SQL Server • Power BI • DAX • Pandas • SQLAlchemy • Urllib
 </p>
 
 </div>
