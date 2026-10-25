@@ -36,13 +36,15 @@
 <br/>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,pandas,numpy,git,github" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C94C?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </div>
 
 <br/>
 
 <div align="center">
-  <p><strong>Bibliotecas & Stack de Dados:</strong> Pandas • NumPy • Matplotlib • Seaborn • SQLAlchemy • Urllib • Scikit-Learn • SQL Server • Power BI</p>
+  <p><strong>Bibliotecas & Data Stack:</strong> Pandas • NumPy • Matplotlib • Seaborn • Scikit-Learn • SQLAlchemy • Urllib • Power BI • SQL Server</p>
 </div>
 
 <br/>
@@ -55,7 +57,7 @@
 
 <div>
 
-<h3>🛒 Olist E-Commerce Analytics — End-to-End Data Project | <a href="https://github.com/higorcosme/NOME-DO-SEU-REPO-OLIST" target="_blank">GitHub</a></h3>
+<h3>🛒 Olist E-Commerce Analytics | <a href="https://github.com/higorcosme/olist-ecommerce-analytics" target="_blank">GitHub</a></h3>
 
 <p>
 - <strong>Pipeline de Dados Completo (ETL, SQL e Power BI)</strong> — Análise executiva de e-commerce baseada no conjunto de dados público da Olist (Kaggle).
